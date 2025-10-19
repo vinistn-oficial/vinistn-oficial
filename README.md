@@ -8,35 +8,34 @@ Trabalho com tecnologias modernas que permitem construir sites dinâmicos, respo
 
 
 
-<!-- ⭐ Estrelas -->
+<!-- Estrelas do GitHub -->
 <a href="https://github.com/vinistn-oficial?tab=repositories">
-  <img src="https://img.shields.io/github/stars/vinistn-oficial?style=for-the-badge&label= Estrelas&logo=github&logoColor=white&color=brightgreen" alt="Estrelas no GitHub" />
+  <img src="https://img.shields.io/github/stars/vinistn-oficial?style=for-the-badge&label=Estrelas&logo=github&logoColor=white&color=brightgreen" alt="Estrelas no GitHub" />
 </a>
 
-<!-- 👥 Seguidores -->
+<!-- Seguidores do GitHub -->
 <a href="https://github.com/vinistn-oficial?tab=followers">
-  <img src="https://img.shields.io/github/followers/vinistn-oficial?style=for-the-badge&label= Seguidores&logo=github&logoColor=white&color=blue" alt="Seguidores no GitHub" />
+  <img src="https://img.shields.io/github/followers/vinistn-oficial?style=for-the-badge&label=Seguidores&logo=github&logoColor=white&color=blue" alt="Seguidores no GitHub" />
 </a>
 
-
-<!-- 📸 Instagram -->
-<a href="https://www.instagram.com/vinistn.ofc">
+<!-- Instagram -->
+<a href="https://www.instagram.com/seu-perfil">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
+<!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/vinicius-santana-a4b84a38b/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-
-<!-- ✉️ Gmail -->
-<a href="mailto:vinistn.win@gmail.com">
-  <img src="https://img.shields.io/badge/ Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+<!-- Gmail -->
+<a href="mailto:vinicius@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
-<!--  Site pessoal -->
+<!-- Site pessoal -->
 <a href="https://vinicius.dev">
-  <img src="https://img.shields.io/badge/ vinicius.dev-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Site pessoal" />
+  <img src="https://img.shields.io/badge/vinicius.dev-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Site pessoal" />
 </a>
 
 ---
