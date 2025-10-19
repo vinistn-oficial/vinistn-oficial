@@ -8,15 +8,16 @@ Trabalho com tecnologias modernas que permitem construir sites dinâmicos, respo
 
 
 
-<!-- ⭐ ESTRELAS do GitHub -->
+<!-- ⭐ Estrelas -->
 <a href="https://github.com/vinistn-oficial?tab=repositories">
-  <img src="https://img.shields.io/github/stars/vinistn-oficial?style=for-the-badge&label= ESTRELAS&logo=github&logoColor=white&color=brightgreen" alt="Estrelas no GitHub" />
+  <img src="https://img.shields.io/github/stars/vinistn-oficial?style=for-the-badge&label= Estrelas&logo=github&logoColor=white&color=brightgreen" alt="Estrelas no GitHub" />
 </a>
 
-<!-- 👥 SEGUIDORES do GitHub -->
+<!-- 👥 Seguidores -->
 <a href="https://github.com/vinistn-oficial?tab=followers">
-  <img src="https://img.shields.io/github/followers/vinistn-oficial?style=for-the-badge&label= SEGUIDORES&logo=github&logoColor=white&color=blue" alt="Seguidores no GitHub" />
+  <img src="https://img.shields.io/github/followers/vinistn-oficial?style=for-the-badge&label= Seguidores&logo=github&logoColor=white&color=blue" alt="Seguidores no GitHub" />
 </a>
+
 
 <!-- 📸 Instagram -->
 <a href="https://www.instagram.com/vinistn.ofc">
