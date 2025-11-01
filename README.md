@@ -37,7 +37,9 @@ Trabalho com tecnologias modernas que permitem construir sites dinâmicos, respo
 <a href="https://vinicius.dev">
   <img src="https://img.shields.io/badge/vinicius.dev-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Site pessoal" />
 </a>
-
+<div align="right">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 ---
 
 ## 🧠 Linguagens e Tecnologias Web
