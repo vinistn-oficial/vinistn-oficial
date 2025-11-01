@@ -1,41 +1,44 @@
-# 👨‍💻 Vinicius Santana | Desenvolvedor Web Front-End
-
-## 🚀 Sobre mim
-
-Sou **Vinicius Santana**, um desenvolvedor web front-end apaixonado por criar experiências digitais incríveis e interativas. Tenho experiência no desenvolvimento de **sites dinâmicos**, **aplicações web responsivas** e **interfaces de usuário (UI)** intuitivas. Meu foco está em entregar soluções que sejam **visualmente atraentes**, **funcionais** e **altamente escaláveis**.
-
-Utilizo as mais modernas **ferramentas e tecnologias** para construir aplicações rápidas, acessíveis e agradáveis de usar. Sempre busco aprimorar minhas habilidades e aprender novas tecnologias para oferecer os melhores resultados aos meus clientes e empregadores.
-
-## 🛠️ Minhas Habilidades
-
-#### Tecnologias e Frameworks
-
-- **HTML5** | **CSS3** | **JavaScript** | **TypeScript**
-- **React.js** | **Next.js** | **Vue.js**
-- **Tailwind CSS** | **Sass** | **Styled-components**
-- **Webpack** | **Babel**
-- **Git** | **GitHub**
-- **REST APIs** | **GraphQL**
-- **UX/UI Design Principles**
-
-#### Ferramentas e Plataformas
-
-- **VS Code** | **Figma** | **Adobe XD**
-- **Jest** | **Cypress** (Testes)
-- **Netlify** | **Vercel** | **Heroku** (Deploy)
-- **Docker** (para containers)
-
+# 👨‍💻 Vinicius Santana | Desenvolvedor Web 
 ---
 
-## 📈 Meus Projetos
+## 🚀 Sobre mim 
 
-Aqui estão alguns dos projetos que desenvolvi, que demonstram minhas habilidades técnicas e criativas:
+Sou Vinicius Santana, desenvolvedor web apaixonado por criar soluções digitais completas — do layout à lógica.  
+Trabalho com tecnologias modernas que permitem construir sites dinâmicos, responsivos e escaláveis. <div align="right">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
-- **[Portfólio Pessoal](https://vinicius.dev)**: Um portfólio pessoal dinâmico, totalmente responsivo, com animações interativas feitas em **React.js** e **CSS Grid**.
-- **[E-commerce com React e Firebase](https://github.com/vinistn-oficial/ecommerce)**: Um site de e-commerce simples, com integração de pagamento, usando **React**, **Redux** e **Firebase**.
-- **[Blog Pessoal com Next.js](https://github.com/vinistn-oficial/blog-nextjs)**: Blog pessoal criado com **Next.js** e **Markdown** para gerenciamento de posts, com **SEO** otimizado.
 
----
+
+<!-- Estrelas do GitHub -->
+<a href="https://github.com/vinistn-oficial?tab=repositories">
+  <img src="https://img.shields.io/github/stars/vinistn-oficial?style=for-the-badge&label=Estrelas&logo=github&logoColor=white&color=brightgreen" alt="Estrelas no GitHub" />
+</a>
+
+<!-- Seguidores do GitHub -->
+<a href="https://github.com/vinistn-oficial?tab=followers">
+  <img src="https://img.shields.io/github/followers/vinistn-oficial?style=for-the-badge&label=Seguidores&logo=github&logoColor=white&color=blue" alt="Seguidores no GitHub" />
+</a>
+
+<!-- Instagram -->
+<a href="https://www.instagram.com/seu-perfil">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/vinicius-santana-a4b84a38b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<!-- Gmail -->
+<a href="mailto:vinicius@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+<!-- Site pessoal -->
+<a href="https://vinicius.dev">
+  <img src="https://img.shields.io/badge/vinicius.dev-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Site pessoal" />
+</a>
 
 ## 🧠 Linguagens e Tecnologias Web
 
@@ -45,64 +48,14 @@ Aqui estão alguns dos projetos que desenvolvi, que demonstram minhas habilidade
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🌍 Entre em Contato
-
-**Vamos conversar sobre como posso ajudar a melhorar seu produto e trazer soluções criativas e eficientes para sua empresa!**  
-Você pode me encontrar nas redes sociais ou entrar em contato diretamente:
-
-- 📧 **Email**: [vinicius@gmail.com](mailto:vinicius@gmail.com)
-- 🌐 **Site Pessoal**: [vinicius.dev](https://vinicius.dev)
-- 🔗 **LinkedIn**: [vinicius-santana](https://www.linkedin.com/in/vinicius-santana-a4b84a38b/)
-- 📸 **Instagram**: [@seu-perfil](https://www.instagram.com/seu-perfil)
-- 🐦 **Twitter**: [@seu-perfil](https://twitter.com/seu-perfil)
-
----
-
-## 📌 Vagas e Oportunidades
-
-Estou aberto a **novas oportunidades** e adoraria discutir como posso contribuir para o crescimento da sua equipe e do seu projeto! Se você está procurando um **desenvolvedor web front-end** com experiência em **React**, **Next.js** e **UI/UX**, entre em contato comigo!
-
----
-
-## 🌱 O que estou aprendendo atualmente
-
-- **Next.js**: Como framework de produção para aplicativos React, com foco em renderização do lado do servidor.
-- **Testing**: Melhora no uso de ferramentas como **Jest** e **Cypress** para garantir qualidade no código.
-- **Figma**: Aperfeiçoando minhas habilidades de design UI/UX para melhorar a experiência do usuário em minhas interfaces.
-
----
-
-<div align="right">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif" />
-</div>
-
----
-
-## 💼 Experiência Profissional
-
-### Desenvolvedor Front-End | **[Empresa XYZ](https://www.xyz.com)**
-**Julho 2021 - Presente**  
-Desenvolvimento de interfaces web modernas e responsivas usando **React**, **Next.js** e **Tailwind CSS**. Trabalho de perto com a equipe de design para criar a melhor experiência de usuário possível. Implementação de APIs RESTful e integração com back-end usando **Node.js**.
-
-### Estágio em Desenvolvimento Front-End | **[Empresa ABC](https://www.abc.com)**
-**Março 2020 - Junho 2021**  
-Apoio no desenvolvimento e manutenção de sites institucionais com foco em **SEO**, **responsividade** e **acessibilidade**. Utilização de **HTML5**, **CSS3** e **JavaScript** para construir páginas otimizadas.
-
----
-
-## 🚀 Meu Objetivo
-
-Meu objetivo é contribuir com equipes inovadoras e criativas, criando interfaces dinâmicas e interativas, ao mesmo tempo que continuo a aprender e crescer na área de **Desenvolvimento Front-End**.
-
----
-
-## 📈 Estatísticas
-
-![Vinicius Santana's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinistn-oficial&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
