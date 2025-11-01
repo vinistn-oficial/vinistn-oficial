@@ -15,7 +15,9 @@
 <a href="https://github.com/vinistn-oficial?tab=followers">
   <img src="https://img.shields.io/github/followers/vinistn-oficial?style=for-the-badge&label=Seguidores&logo=github&logoColor=white&color=blue" alt="Seguidores no GitHub" />
 </a>
+
 ###
+
 <a href="https://www.instagram.com/vinistn-oficial">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a><a href="[https://www.linkedin.com/in/vinicius-santana-a4b84a38b/](https://www.linkedin.com/in/vinistn)">
