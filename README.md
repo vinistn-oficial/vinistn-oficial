@@ -1,11 +1,10 @@
 
-<h1 align="center">Hello! My Name Is Vinicius Santana. I'm a Web Developer.</h1>
+<h1 align="center">🧑‍💻 Hello! My Name Is Vinicius Santana. I'm a Web Developer.</h1>
 ---
 
-## 🚀 Sobre mim 
+## 🚀 About me 
 
-Sou Vinicius Santana, desenvolvedor web apaixonado por criar soluções digitais completas — do layout à lógica.  
-Trabalho com tecnologias modernas que permitem construir sites dinâmicos, responsivos e escaláveis. <div align="right">
+💻 Web developer focused on delivering modern, scalable, and user-centered digital solutions — from design to deployment, I turn ideas into high-performance digital experiences. <div align="right">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
@@ -78,6 +77,8 @@ Trabalho com tecnologias modernas que permitem construir sites dinâmicos, respo
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" alt="gimp logo"  />
 </div>
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vinistn-oficial&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
