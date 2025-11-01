@@ -1,11 +1,47 @@
 
 <h1 align="center">Hello! My Name Is Vinicius Santana. I'm a Web Developer.</h1>
+---
 
-###
+## 🚀 Sobre mim 
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+Sou Vinicius Santana, desenvolvedor web apaixonado por criar soluções digitais completas — do layout à lógica.  
+Trabalho com tecnologias modernas que permitem construir sites dinâmicos, responsivos e escaláveis. <div align="right">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
-###
+
+
+<!-- Estrelas do GitHub -->
+<a href="https://github.com/vinistn-oficial?tab=repositories">
+  <img src="https://img.shields.io/github/stars/vinistn-oficial?style=for-the-badge&label=Estrelas&logo=github&logoColor=white&color=brightgreen" alt="Estrelas no GitHub" />
+</a>
+
+<!-- Seguidores do GitHub -->
+<a href="https://github.com/vinistn-oficial?tab=followers">
+  <img src="https://img.shields.io/github/followers/vinistn-oficial?style=for-the-badge&label=Seguidores&logo=github&logoColor=white&color=blue" alt="Seguidores no GitHub" />
+</a>
+
+<!-- Instagram -->
+<a href="https://www.instagram.com/seu-perfil">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/vinicius-santana-a4b84a38b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<!-- Gmail -->
+<a href="mailto:vinicius@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+<!-- Site pessoal -->
+<a href="https://vinicius.dev">
+  <img src="https://img.shields.io/badge/vinicius.dev-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Site pessoal" />
+</a>
+
+## 🧠 Linguagens e Tecnologias Web
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -43,29 +79,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" alt="gimp logo"  />
 </div>
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&instagram=instagram&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vinistn-oficial&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinistn-oficial/vinistn-oficial/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinistn-oficial/vinistn-oficial/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vinistn-oficial/vinistn-oficial/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
