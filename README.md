@@ -6,38 +6,38 @@
 Sou Vinicius Santana, desenvolvedor web apaixonado por criar soluções digitais completas — do layout à lógica.  
 Trabalho com tecnologias modernas que permitem construir sites dinâmicos, responsivos e escaláveis.
 
-<!-- Centralizado, com a imagem à direita e as redes sociais à esquerda -->
-<div align="center">
-  ![Imagem de perfil](https://i.imgflip.com/65efzo.gif)
+<!-- Estrelas do GitHub -->
+<a href="https://github.com/vinistn-oficial?tab=repositories">
+  <img src="https://img.shields.io/github/stars/vinistn-oficial?style=for-the-badge&label=Estrelas&logo=github&logoColor=white&color=brightgreen" alt="Estrelas no GitHub" />
+</a>
+
+<!-- Seguidores do GitHub -->
+<a href="https://github.com/vinistn-oficial?tab=followers">
+  <img src="https://img.shields.io/github/followers/vinistn-oficial?style=for-the-badge&label=Seguidores&logo=github&logoColor=white&color=blue" alt="Seguidores no GitHub" />
+</a>
+
+<!-- Instagram -->
+<a href="https://www.instagram.com/seu-perfil">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/vinicius-santana-a4b84a38b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<!-- Gmail -->
+<a href="mailto:vinicius@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+<!-- Site pessoal -->
+<a href="https://vinicius.dev">
+  <img src="https://img.shields.io/badge/vinicius.dev-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Site pessoal" />
+</a>
+<div align="right">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
-
-<div align="center">
-  <!-- Redes sociais e badges à esquerda, mas na mesma linha -->
-  <a href="https://github.com/vinistn-oficial?tab=repositories">
-    ![Estrelas](https://img.shields.io/github/stars/vinistn-oficial?style=for-the-badge&label=Estrelas&logo=github&logoColor=white&color=brightgreen)
-  </a>
-
-  <a href="https://github.com/vinistn-oficial?tab=followers">
-    ![Seguidores](https://img.shields.io/github/followers/vinistn-oficial?style=for-the-badge&label=Seguidores&logo=github&logoColor=white&color=blue)
-  </a>
-
-  <a href="https://www.instagram.com/seu-perfil">
-    ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-  </a>
-
-  <a href="https://www.linkedin.com/in/vinicius-santana-a4b84a38b/">
-    ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-  </a>
-
-  <a href="mailto:vinicius@gmail.com">
-    ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-  </a>
-
-  <a href="https://vinicius.dev">
-    ![Site pessoal](https://img.shields.io/badge/vinicius.dev-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)
-  </a>
-</div>
-
 ---
 
 ## 🧠 Linguagens e Tecnologias Web
