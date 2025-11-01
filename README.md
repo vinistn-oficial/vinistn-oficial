@@ -6,6 +6,10 @@
 Sou Vinicius Santana, desenvolvedor web apaixonado por criar soluções digitais completas — do layout à lógica.  
 Trabalho com tecnologias modernas que permitem construir sites dinâmicos, responsivos e escaláveis.
 
+<div align="right">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div> 
+
 <!-- Estrelas do GitHub -->
 <a href="https://github.com/vinistn-oficial?tab=repositories">
   <img src="https://img.shields.io/github/stars/vinistn-oficial?style=for-the-badge&label=Estrelas&logo=github&logoColor=white&color=brightgreen" alt="Estrelas no GitHub" />
@@ -35,10 +39,6 @@ Trabalho com tecnologias modernas que permitem construir sites dinâmicos, respo
 <a href="https://vinicius.dev">
   <img src="https://img.shields.io/badge/vinicius.dev-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Site pessoal" />
 </a>
-<div align="right">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
----
 
 ## 🧠 Linguagens e Tecnologias Web
 
