@@ -1,6 +1,5 @@
 
 <h1 align="center">🧑‍💻 Hello! My Name Is Vinicius Santana. I'm a Web Developer.</h1>
----
 
 ## 🚀 About me 
 
@@ -21,22 +20,22 @@
 </a>
 
 <!-- Instagram -->
-<a href="https://www.instagram.com/seu-perfil">
+<a href="https://www.instagram.com/vinistn-oficial">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
 <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/vinicius-santana-a4b84a38b/">
+<a href="[https://www.linkedin.com/in/vinicius-santana-a4b84a38b/](https://www.linkedin.com/in/vinistn)">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <!-- Gmail -->
-<a href="mailto:vinicius@gmail.com">
+<a href="mailto:vinistn.win@outlook.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
 <!-- Site pessoal -->
-<a href="https://vinicius.dev">
+<a href="https://my-portifolio-lemon.vercel.app">
   <img src="https://img.shields.io/badge/vinicius.dev-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Site pessoal" />
 </a>
 
