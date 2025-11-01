@@ -8,33 +8,21 @@
 </div>
 
 
-
-<!-- Estrelas do GitHub -->
 <a href="https://github.com/vinistn-oficial?tab=repositories">
   <img src="https://img.shields.io/github/stars/vinistn-oficial?style=for-the-badge&label=Estrelas&logo=github&logoColor=white&color=brightgreen" alt="Estrelas no GitHub" />
 </a>
-
-<!-- Seguidores do GitHub -->
 <a href="https://github.com/vinistn-oficial?tab=followers">
   <img src="https://img.shields.io/github/followers/vinistn-oficial?style=for-the-badge&label=Seguidores&logo=github&logoColor=white&color=blue" alt="Seguidores no GitHub" />
 </a>
-
-<!-- Instagram -->
 <a href="https://www.instagram.com/vinistn-oficial">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-
-<!-- LinkedIn -->
 <a href="[https://www.linkedin.com/in/vinicius-santana-a4b84a38b/](https://www.linkedin.com/in/vinistn)">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
-<!-- Gmail -->
 <a href="mailto:vinistn.win@outlook.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-
-<!-- Site pessoal -->
 <a href="https://my-portifolio-lemon.vercel.app">
   <img src="https://img.shields.io/badge/vinicius.dev-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Site pessoal" />
 </a>
